@@ -1,6 +1,6 @@
 # ProjetoDio
 <h2> Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
-<h3>Projeto da Digital Innovation One, desenvolvimento de um sistema de gerenciamneto de pessoas
+<h3>Projeto da Digital Innovation One, desenvolvimento de um sistema de gerenciamento de pessoas
 em API REST com Spring Boot.</h3
 
 *Foi usado o Spring Boot Initialzr para a configuração do projeto; <br>
